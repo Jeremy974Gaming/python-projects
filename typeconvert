@@ -1,0 +1,10 @@
+from multiprocessing.sharedctypes import Value
+
+from traitlets import Integer
+
+
+float(string) -> float value
+int(string) -> int value
+str(int) -> int value
+str(int) or str(float) -> str rep  
+ 
